@@ -1,0 +1,4 @@
+- Run node_exporter.socket : sudo systemctl start node_exporter.socker
+- Check status node_exporter.socket : sudo systemctl status node_exporter.socket
+- Run node_exporter.service : sudo systemctl start node_exporter.service
+- Check status node_exporter.service : sudo systemctl status node_exporter.service
